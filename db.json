@@ -1,45 +1,22 @@
- {
-"status": "ok",
-"totalResults": 6195,
-"articles":[
 {
-"source": {
-"id": "the-irish-times",
-"name": "The Irish Times"
-},
-"author": "The Irish Times",
-"title": "Volatile president lambasts volatile cryptocurrencies",
-"description": "Cantillon: Whatever about Bitcoin, is Trump correct to be critical of Facebook’s libra?",
-"url": "https://www.irishtimes.com/business/markets/volatile-president-lambasts-volatile-cryptocurrencies-1.3955171",
-"urlToImage": "https://www.irishtimes.com/image-creator/?id=1.3955170&origw=1440",
-"publishedAt": "2019-07-13T04:15:23Z",
-"content": "Donald Trump doesnt like cryptocurrencies. The US president took to Twitter to lambast bitcoin and its ilk. I am not a fan of Bitcoin and other cryptocurrencies, which are not money, and whose value is highly volatile and based on thin air. \r\nIts not the firs… [+2060 chars]"
-},
-{
-"source": {
-"id": null,
-"name": "Ozbargain.com.au"
-},
-"author": "jane78",
-"title": "Upto 10% Rewards in Bitcoin with TravelbyBit",
-"description": "I just booked my flight and hotel in Cairns with TravelbyBit, and earned rewards in bitcoin. Although I paid with digital currency, you can still earn rewards if you pay with your credit card. If you’re a frequent traveller with an interest in crypto, I think…",
-"url": "https://www.ozbargain.com.au/node/470065",
-"urlToImage": "https://files.ozbargain.com.au/n/65/470065x.jpg?h=0732e2ee",
-"publishedAt": "2019-07-13T03:47:25Z",
-"content": "I just booked my flight and hotel in Cairns with TravelbyBit, and earned rewards in bitcoin. Although I paid with digital currency, you can still earn rewards if you pay with your credit card. If youre a frequent traveller with an interest in crypto, I think … [+197 chars]"
-},
-{
-"source": {
-"id": null,
-"name": "Apkmirror.com"
-},
-"author": null,
-"title": "Square Cash App 2.53.2 by Square, Inc.",
-"description": "The post Square Cash App 2.53.2 by Square, Inc. appeared first on APKMirror.",
-"url": "https://www.apkmirror.com/apk/square-inc/square-cash/square-cash-2-53-2-release/square-cash-app-2-53-2-android-apk-download/",
-"urlToImage": "https://www.apkmirror.com/wp-content/uploads/2019/07/5d294a2d72429-384x384.png",
-"publishedAt": "2019-07-13T03:04:22Z",
-"content": "Its Friday. You wake up to a $15 Cash App notification. A pal paid you back for that pizza you shared. Your balance now reads $172.30.You use your new money to buy a coffee with your personalized Cash Card. You even hit up the ATM after.\r\n5PM. Direct deposit … [+283 chars]"
-}
-]
+    "glossary": {
+        "title": "example glossary",
+		"GlossDiv": {
+            "title": "S",
+			"GlossList": {
+                "GlossEntry": {
+                    "ID": "SGML",
+					"SortAs": "SGML",
+					"GlossTerm": "Standard Generalized Markup Language",
+					"Acronym": "SGML",
+					"Abbrev": "ISO 8879:1986",
+					"GlossDef": {
+                        "para": "A meta-markup language, used to create markup languages such as DocBook.",
+						"GlossSeeAlso": ["GML", "XML"]
+                    },
+					"GlossSee": "markup"
+                }
+            }
+        }
+    }
 }
