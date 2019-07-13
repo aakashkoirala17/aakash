@@ -1,9 +1,9 @@
 {
 "status": "ok",
 "totalResults": 6195,
--"articles": [
--{
--"source": {
+"articles": [
+{
+"source": {
 "id": "the-irish-times",
 "name": "The Irish Times"
 },
@@ -15,8 +15,8 @@
 "publishedAt": "2019-07-13T04:15:23Z",
 "content": "Donald Trump doesnt like cryptocurrencies. The US president took to Twitter to lambast bitcoin and its ilk. I am not a fan of Bitcoin and other cryptocurrencies, which are not money, and whose value is highly volatile and based on thin air. \r\nIts not the firs… [+2060 chars]"
 },
--{
--"source": {
+{
+"source": {
 "id": null,
 "name": "Ozbargain.com.au"
 },
@@ -28,8 +28,8 @@
 "publishedAt": "2019-07-13T03:47:25Z",
 "content": "I just booked my flight and hotel in Cairns with TravelbyBit, and earned rewards in bitcoin. Although I paid with digital currency, you can still earn rewards if you pay with your credit card. If youre a frequent traveller with an interest in crypto, I think … [+197 chars]"
 },
--{
--"source": {
+{
+"source": {
 "id": null,
 "name": "Apkmirror.com"
 },
@@ -40,227 +40,6 @@
 "urlToImage": "https://www.apkmirror.com/wp-content/uploads/2019/07/5d294a2d72429-384x384.png",
 "publishedAt": "2019-07-13T03:04:22Z",
 "content": "Its Friday. You wake up to a $15 Cash App notification. A pal paid you back for that pizza you shared. Your balance now reads $172.30.You use your new money to buy a coffee with your personalized Cash Card. You even hit up the ATM after.\r\n5PM. Direct deposit … [+283 chars]"
-},
--{
--"source": {
-"id": null,
-"name": "Slashdot.org"
-},
-"author": "feedfeeder",
-"title": "Trump's attack on crypto could push bitcoin up to $40,000 by year-end: Tom Lee - Yahoo Finance",
-"description": "Trump's attack on crypto could push bitcoin up to $40,000 by year-end: Tom LeeYahoo Finance Trump warns Facebook over its plan to create a digital currencyAdAge.com Trump: 'I am not a fan of bitcoin and other cryptocurrencies'Yahoo Finance Trump Has a Favorit…",
-"url": "https://slashdot.org/firehose.pl?op=view&amp;id=112217596",
-"urlToImage": null,
-"publishedAt": "2019-07-13T02:13:10Z",
-"content": "The Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way."
-},
--{
--"source": {
-"id": "crypto-coins-news",
-"name": "Crypto Coins News"
-},
-"author": "Jose Antonio Lanz",
-"title": "Binance to Burn Over $2.5 Billion of Its BNB Stash. Guess Who Benefits?",
-"description": "Binance yesterday completed its eighth quarterly “burn” of BNB. With this move, the exchange follows its commitment to reduce the total token supply periodically. However, along with the obligatory token burn, Binance CEO Changpeng “CZ” Zhao announced that hi…",
-"url": "https://www.ccn.com/news/binance-will-burn-its-entire-bnb-allocation-to-benefit-you-and-themselves/2019/07/12/",
-"urlToImage": "https://www.ccn.com/wp-content/uploads/2019/07/binance-coin-shutterstock.jpg",
-"publishedAt": "2019-07-13T01:30:10Z",
-"content": "Binance yesterday completed its eighth quarterly “burn” of BNB. With this move, the exchange follows its commitment to reduce the total token supply periodically. However, along with the obligatory token burn, Binance CEO Changpeng “CZ” Zhaoannounced that his… [+3099 chars]"
-},
--{
--"source": {
-"id": null,
-"name": "Securitynewspaper.com"
-},
-"author": "Ritesh Bhatia",
-"title": "Hackers encrypt all college computers with ransomware: $2 million ransom",
-"description": "Officials at Monroe College, a private university based in New York, recently reported a cybersecurity incident that affected its operations. According to specialists, the hackers in charge of the attack compromised the academic institution’s computer systems…",
-"url": "https://www.securitynewspaper.com/2019/07/12/hackers-encrypt-all-college-computers-with-ransomware-2-million-ransom/",
-"urlToImage": "https://www.securitynewspaper.com/snews-up/2019/07/monroe.jpg",
-"publishedAt": "2019-07-13T00:16:00Z",
-"content": "Officials at Monroe College, a private university based in New York, recently reported a cybersecurity incident that affected its operations. According to system audit specialists, the hackers in charge of the attack compromised the academic institution’s com… [+2014 chars]"
-},
--{
--"source": {
-"id": null,
-"name": "Business-opportunities.biz"
-},
-"author": "Carrol Strain",
-"title": "Oil and Gold: Good Trading Partners?",
-"description": "Arguably, oil and gold are the two most traded commodities in the markets. The fact is, both are popular trading vehicles. And each has its own unique characteristics that make it profitable on its own. However, when traded together, they constitute a powerfu…",
-"url": "https://www.business-opportunities.biz/2019/07/12/oil-and-gold-good-trading-partners/",
-"urlToImage": "https://www.business-opportunities.biz/wp-content/uploads/2019/07/oil-and-gold-3.jpg",
-"publishedAt": "2019-07-13T00:03:07Z",
-"content": "Arguably, oil and gold are the two most traded commodities in the markets. The fact is, each has its own unique characteristics that make it profitable on its own. However, when traded together, they constitute a powerful combination.\r\nThe Nuts and Bolts of G… [+3246 chars]"
-},
--{
--"source": {
-"id": null,
-"name": "Newsbtc.com"
-},
-"author": "Cole Petersen",
-"title": "Altcoins Could See a Relief Rally as Long as Bitcoin Price Remains Steady in Near-Term",
-"description": "Bitcoin and most altcoins have been incurring tremendous volatility as of late, which has been primarily driven by BTC’s extended period of consolidation in the lower five-figure price region, where it has been trading at for the past month. Now, one prominen…",
-"url": "https://www.newsbtc.com/2019/07/13/altcoins-could-see-a-relief-rally-as-long-as-bitcoin-price-remains-steady-in-near-term/",
-"urlToImage": "https://www.newsbtc.com/wp-content/uploads/2019/07/shutterstock_677490325-2-1200x780.jpg",
-"publishedAt": "2019-07-13T00:00:52Z",
-"content": "Bitcoin and most altcoins have been incurring tremendous volatility as of late, which has been primarily driven by BTCs extended period of consolidation in the lower five-figure price region, where it has been trading at for the past month.\r\nNow, one prominen… [+3227 chars]"
-},
--{
--"source": {
-"id": null,
-"name": "Freemalaysiatoday.com"
-},
-"author": "Bloomberg",
-"title": "Biggest crypto exchange CEO says retail still driving the rally",
-"description": "The head of the world’s largest online exchange says individual investors are still playing a key role in driving the dramatic price gains of cryptocurrency.",
-"url": "https://www.freemalaysiatoday.com/category/business/2019/07/13/biggest-crypto-exchange-ceo-says-retail-still-driving-the-rally/",
-"urlToImage": "https://s3media.freemalaysiatoday.com/wp-content/uploads/2019/01/FMT-cryptoassetrules09012019-AFP.jpg",
-"publishedAt": "2019-07-12T23:55:56Z",
-"content": "Representations of the Ripple, Bitcoin, Etherum and Litecoin virtual currencies are seen on a PC motherboard. (Reuters pic)\r\nPORTLAND: While the arrival of institutional demand is one of the most cited reasons by cryptocurrency proponents for this years rally… [+1546 chars]"
-},
--{
--"source": {
-"id": null,
-"name": "Newsbtc.com"
-},
-"author": "Rick D.",
-"title": "Tech Entrepreneur: Facebook’s “Cryptocurrency” Libra is a “Big Mistake”",
-"description": "Billionaire tech entrepreneur Mark Cuban is not a big fan of Facebook’s recently-detailed cryptocurrency-of-sorts. He says there may be repercussions from despotic leaders around the world if citizens start to use alternatives to national currencies. Cuban jo…",
-"url": "https://www.newsbtc.com/2019/07/12/libra-cryptocurrency-big-mistake/",
-"urlToImage": "https://www.newsbtc.com/wp-content/uploads/2019/06/bitcoin-crypto-facebook-libra-shutterstock_1428033530-1200x780.jpg",
-"publishedAt": "2019-07-12T23:00:15Z",
-"content": "Billionaire tech entrepreneur Mark Cuban is not a big fan of Facebook’s recently-detailed cryptocurrency-of-sorts. He says there may be repercussions from despotic leaders around the world if citizens start to use alternatives to national currencies.\r\nCuban j… [+3562 chars]"
-},
--{
--"source": {
-"id": null,
-"name": "Mynews13.com"
-},
-"author": null,
-"title": "Florida Cities Brace for Ransomware After Others Pay Up",
-"description": "Lake City recently paid almost $500,000 to regain access to its data.",
-"url": "https://www.mynews13.com/fl/orlando/news/2019/07/12/ransomware-florida-cities",
-"urlToImage": "https://s7d2.scene7.com/is/image/TWCNews/0712_n13_small_citiesransomwarejpg",
-"publishedAt": "2019-07-12T22:45:42Z",
-"content": "WILDWOOD, Fla. \"Cyberpirates\" historically have hijacked data from larger cities such as Atlanta\r\n and Dallas for ransom. But recently, they've turned their attention to smaller municipalities, three of which were here in Florida.\r\n<ul><li>Lake City ended up … [+1618 chars]"
-},
--{
--"source": {
-"id": "business-insider",
-"name": "Business Insider"
-},
-"author": "Nick Bastone",
-"title": "It won't be hard for Facebook to afford a $5 billion settlement with the FTC, but there may be other costs beyond money (FB)",
-"description": "Facebook is facing a record-setting penalty of about $5 billion from the Federal Trade Commission — but for the tech giant, that's only about as much as the revenue it generates in a month. What could be more damaging to Facebook than the monetary costs of th…",
-"url": "https://www.businessinsider.com/facebook-five-billion-dollar-ftc-settlement-more-problems-2019-7",
-"urlToImage": "https://amp.businessinsider.com/images/5d04faad6fc9201cc2566174-2732-1366.jpg",
-"publishedAt": "2019-07-12T22:37:15Z",
-"content": "Facebook is facing a penalty of about $5 billion from the Federal Trade Commission (FTC) for violating a privacy consent degree set back in 2011. \r\n The multi-billion-dollar penalty — which was first reported by the Wall Street Journal on Friday — is poised t… [+3208 chars]"
-},
--{
--"source": {
-"id": null,
-"name": "Businessinsider.com.au"
-},
-"author": "Nick Bastone",
-"title": "It won't be hard for Facebook to afford a $5 billion settlement with the FTC, but there may be other costs beyond money",
-"description": "Facebook is facing a record-setting penalty of about $US5 billion from the Federal Trade Commission - but for the tech giant, that's only about as much as the revenue it generates in a month. More »",
-"url": "https://www.businessinsider.com.au/facebook-five-billion-dollar-ftc-settlement-more-problems-2019-7",
-"urlToImage": "https://static.businessinsider.com/image/5d02d96f6fc9200e9b5fa932-640.jpg",
-"publishedAt": "2019-07-12T22:37:15Z",
-"content": "<ul><li>Facebook is facing a record-setting penalty of about $US5 billion from the Federal Trade Commission – but for the tech giant, that’s only about as much as the revenue it generates in a month.\r\n </li><li>\r\n What could be more damaging to Facebook than … [+4293 chars]"
-},
--{
--"source": {
-"id": null,
-"name": "Yahoo.com"
-},
-"author": "Nick Bastone",
-"title": "It won't be hard for Facebook to afford a $5 billion settlement with the FTC, but there may be other costs beyond money (FB)",
-"description": "Facebook has a lot of cash on hand, but there could be other aftereffects from the FTC's settlement with the social network — like increased oversight.",
-"url": "https://news.yahoo.com/wont-hard-facebook-afford-5-223715175.html",
-"urlToImage": "https://s.yimg.com/os/mit/media/m/social/images/social_default_logo-1481777.png",
-"publishedAt": "2019-07-12T22:37:15Z",
-"content": "Mark Zuckerberg\r\nGetty\r\n<ul><li>Facebook is facing a record penalty of about $5 billion from the Federal Trade Commission but for the tech giant, that's only about as much as the revenue it generates in a month.\r\n</li><li>What could be more damaging to Facebo… [+4200 chars]"
-},
--{
--"source": {
-"id": null,
-"name": "Marketwatch.com"
-},
-"author": "Jacob Passy",
-"title": "Personal Finance Daily: How Amazon’s Prime Day deals stack up against Walmart and Target and Jeffrey Epstein’s mansion could be a real-estate nightmare",
-"description": "Friday's top personal finance Stories",
-"url": "https://www.marketwatch.com/story/how-amazons-prime-day-deals-stack-up-against-walmart-and-target-and-jeffrey-epsteins-mansion-could-be-a-real-estate-nightmare-2019-07-12",
-"urlToImage": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-"publishedAt": "2019-07-12T22:34:00Z",
-"content": "Happy Friday, MarketWatchers! While youre taking a break from preparing for Amazon Prime Day next week, check out these top stories:\r\nPersonal Finance\r\nHow Jeffrey Epstein allegedly targeted girls from disadvantaged backgrounds who were most vulnerable to abu… [+3269 chars]"
-},
--{
--"source": {
-"id": null,
-"name": "Twit.tv"
-},
-"author": "TWiT",
-"title": "Triangulation 406: Bram Cohen: Chia Network",
-"description": "BitTorrent creator Bram Cohen returns to 'Triangulation' with Jason Howell to talk about Chia Network and how they are creating a decentralized open-source blockchain which is a more decentralized and energy-intensive cryptocurrency than Bitcoin. They also di…",
-"url": "https://twit.tv/shows/triangulation/episodes/406",
-"urlToImage": "https://elroycdn.twit.tv/sites/default/files/images/episodes/781351/hero/tri0406_h264.00_02_53_59.still004.jpg",
-"publishedAt": "2019-07-12T22:10:19Z",
-"content": "BitTorrent creator Bram Cohen returns to 'Triangulation' with Jason Howell to talk about Chia Network and how they are creating a decentralized open-source blockchain which is a more decentralized and energy-intensive cryptocurrency than Bitcoin. They also di… [+198 chars]"
-},
--{
--"source": {
-"id": null,
-"name": "Newsbtc.com"
-},
-"author": "Cole Petersen",
-"title": "Bitcoin Becomes “Geo-Political Chess Piece” as Global Leaders Air Their Opinions on Crypto",
-"description": "Bitcoin and the aggregated crypto markets have been facing tremendous volatility over the past few days that has been exasperated by comments being made about BTC and the nascent crypto markets by world leaders and politicians – who undoubtedly will sway how …",
-"url": "https://www.newsbtc.com/2019/07/12/bitcoin-becomes-geo-political-chess-piece-as-global-leaders-air-their-opinions-on-crypto/",
-"urlToImage": "https://www.newsbtc.com/wp-content/uploads/2019/07/shutterstock_526074640-1200x780.jpg",
-"publishedAt": "2019-07-12T22:00:54Z",
-"content": "Bitcoin and the aggregated crypto markets have been facing tremendous volatility over the past few days that has been exasperated by comments being made about BTC and the nascent crypto markets by world leaders and politicians who undoubtedly will sway how US… [+3353 chars]"
-},
--{
--"source": {
-"id": null,
-"name": "Dailyfx.com"
-},
-"author": "David Cottle, Analyst, David Cottle",
-"title": "Australian Dollar Faces Busy Week, But Probably No Game Changer",
-"description": "From RBA minutes through to employment data and Chinese growth numbers, this won’t be a quiet time for Australian Dollar watchers.",
-"url": "https://www.dailyfx.com/forex/fundamental/forecast/weekly/aud/2019/07/12/Australian-Dollar-Faces-Busy-Week-But-Probably-No-Game-Changer.html",
-"urlToImage": "https://a.c-dn.net/b/3MLSVw/headline_iStock-517631222.jpg",
-"publishedAt": "2019-07-12T22:00:00Z",
-"content": "<ul><li>AUD/USD gained on a more dovish Fed, but its own low interest rates still weigh on it</li><li>There are signs that those back to back RBA rate cuts arent helping much</li><li>This week will bring more clues</li></ul>Find out what retail foreign exchan… [+3164 chars]"
-},
--{
--"source": {
-"id": null,
-"name": "Slate.com"
-},
-"author": "Slate Copy Desk",
-"title": "The Angle: Why Right-Wing Violence Could Worsen Even After Trump’s Gone",
-"description": "The president’s most extreme supporters have been newly empowered—and they’re not likely to back down anytime soon.",
-"url": "https://slate.com/news-and-politics/2019/07/right-wing-violence-holocaust-migrant-crisis-trigger-warnings-cryptocurrency.html",
-"urlToImage": "https://compote.slate.com/images/6170be19-6d1b-49e2-9410-cb9fc3f83d34.jpeg?width=780&height=520&rect=3500x2333&offset=0x0",
-"publishedAt": "2019-07-12T21:53:35Z",
-"content": "<ol><li>\r\nThings Trump Said Today, Verbatim\r\n </li><li>\r\nHow Alex Acosta Got Away With It for So Long\r\n </li><li>\r\nWhite Man Allegedly Followed a Black Teen Into a Store and Cut His Throat Because His Rap Music Made Him Feel Unsafe\r\n </li><li>\r\nThere Are Two … [+2123 chars]"
-},
--{
--"source": {
-"id": "crypto-coins-news",
-"name": "Crypto Coins News"
-},
-"author": "P. H. Madore",
-"title": "Crypto Gambling App That Lets You Bet on Anything Calls It Quits",
-"description": "Veil, a decentralized application that mostly interacts with Augur to help crypto users create and participate in prediction markets, is going away. Prediction Markets Just One Mass Appeal for Crypto The product itself that is. The company behind it will cont…",
-"url": "https://www.ccn.com/news/crypto-gambling-app-veil-shuts-down/2019/07/12/",
-"urlToImage": "https://www.ccn.com/wp-content/uploads/2019/07/crypto-gambler-lose-bet-shutterstock.jpg",
-"publishedAt": "2019-07-12T21:53:19Z",
-"content": "Veil, a decentralized application that mostly interacts with Augur to help crypto users create and participate in prediction markets, is going away.\r\nPrediction Markets Just One Mass Appeal for Crypto\r\nThe product itself that is. The company behind it will co… [+3608 chars]"
 }
 ]
 }
