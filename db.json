@@ -1,1 +1,17 @@
-
+{
+"status": "ok",
+"totalResults": 6195,
+-"articles": [
+-{
+-"source": {
+"id": "the-irish-times",
+"name": "The Irish Times"
+},
+"author": "The Irish Times",
+"title": "Volatile president lambasts volatile cryptocurrencies",
+"description": "Cantillon: Whatever about Bitcoin, is Trump correct to be critical of Facebook’s libra?",
+"url": "https://www.irishtimes.com/business/markets/volatile-president-lambasts-volatile-cryptocurrencies-1.3955171",
+"urlToImage": "https://www.irishtimes.com/image-creator/?id=1.3955170&origw=1440",
+"publishedAt": "2019-07-13T04:15:23Z",
+"content": "Donald Trump doesnt like cryptocurrencies. The US president took to Twitter to lambast bitcoin and its ilk. I am not a fan of Bitcoin and other cryptocurrencies, which are not money, and whose value is highly volatile and based on thin air. \r\nIts not the firs… [+2060 chars]"
+},
